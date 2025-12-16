@@ -1,5 +1,4 @@
 package edu.julio.fundamentos_plataforma;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class MinhaClasse {
