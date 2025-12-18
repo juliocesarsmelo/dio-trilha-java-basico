@@ -24,4 +24,4 @@ hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
 sintaxe-java/.vscode/settings.json
-
+sintaxe-java/.vscode/launch.json
