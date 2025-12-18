@@ -1,4 +1,3 @@
-package edu.julio.fundamentos_plataforma;
 import java.util.Scanner;
 
 public class MinhaClasse {
@@ -6,13 +5,13 @@ public class MinhaClasse {
         System.out.println("Executado pelo terminal.");
         System.out.println("Executado pelo terminal, atualizado!!!");
         
-        //Para compilar 
+        //Para compilar (acessando o diretório /src) 
         // 
-        //javac -d bin src/edu/julio/fundamentos_plataforma/MinhaClasse.java
+        //javac MinhaClasse.java
 
-        //Para executar 
+        //Para executar (acessando o diretório /bin) 
         //
-        //java -cp bin edu.julio.fundamentos_plataforma.MinhaClasse
+        //java MinhaClasse
 
         //Para utilizar parametros pelo debug
         String nome = args[0];

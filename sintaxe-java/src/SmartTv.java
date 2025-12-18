@@ -1,5 +1,3 @@
-package edu.julio.fundamentos_plataforma;
-
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;

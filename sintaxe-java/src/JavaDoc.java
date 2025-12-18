@@ -1,5 +1,3 @@
-package edu.julio.fundamentos_plataforma;
-
 /**
  * Comentário para documentação
  * 

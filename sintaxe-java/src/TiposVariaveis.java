@@ -1,5 +1,3 @@
-package edu.julio.fundamentos_plataforma;
-
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");

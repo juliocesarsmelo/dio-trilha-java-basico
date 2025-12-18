@@ -1,5 +1,3 @@
-package edu.julio.fundamentos_plataforma;
-
 public class Metodos {
 
     public static void main(String[] args) {

@@ -8,11 +8,17 @@
             "type": "java",
             "name": "Debug MinhaClasse",
             "request": "launch",
-            "mainClass": "edu.julio.fundamentos_plataforma.MinhaClasse",
+            "mainClass": "MinhaClasse",
             "args": [
-                "JULIOCESAR"
+                "JULIO CÉSAR"
             ]
-            //Passar argumentos no Debug
+            //Adicionar argumentos ao Debug
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
         }
     ]
 }
