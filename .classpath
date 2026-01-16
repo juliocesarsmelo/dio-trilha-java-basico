@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="controle-candidatos/src"/>
 	<classpathentry kind="src" path="estruturas-de-controle/src"/>
 	<classpathentry kind="src" path="sintaxe-java/src"/>
+	<classpathentry kind="src" path="orientada-objeto"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
